@@ -1,0 +1,16 @@
+{
+  "name": "textract-lab-images-only",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.739.0",
+    "commander": "^6.0.0",
+    "lodash": "^4.17.20"
+  }
+}
